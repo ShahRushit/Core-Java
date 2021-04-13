@@ -1,2 +1,2 @@
 # Core-Java
-# All Practicals are available here
+# All Practicals of MCA are available here 
